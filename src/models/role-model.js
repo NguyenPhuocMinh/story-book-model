@@ -13,6 +13,6 @@ module.exports = {
     updatedBy: { type: String },
   },
   options: {
-    collection: 'roles'
-  }
-}
+    collection: 'roles',
+  },
+};

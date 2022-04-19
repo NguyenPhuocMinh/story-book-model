@@ -24,6 +24,6 @@ module.exports = {
     updatedBy: { type: String },
   },
   options: {
-    collection: 'users'
-  }
+    collection: 'users',
+  },
 };

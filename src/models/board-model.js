@@ -15,6 +15,6 @@ module.exports = {
     updatedBy: { type: String },
   },
   options: {
-    collection: 'boards'
-  }
-}
+    collection: 'boards',
+  },
+};
