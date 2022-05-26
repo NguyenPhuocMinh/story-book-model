@@ -15,8 +15,6 @@ module.exports = {
     roles: { type: Schema.Types.ObjectId, ref: 'RoleModel' },
     rememberMe: { type: Boolean, default: false },
     photoURL: { type: String },
-    accessToken: { type: String },
-    refreshToken: { type: String },
     //filter
     slug: { type: String },
     deleted: { type: Boolean, default: false },
